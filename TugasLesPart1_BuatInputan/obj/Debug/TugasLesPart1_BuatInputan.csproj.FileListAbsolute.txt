@@ -1,0 +1,8 @@
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\bin\Debug\TugasLesPart1_BuatInputan.exe.config
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\bin\Debug\TugasLesPart1_BuatInputan.exe
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\bin\Debug\TugasLesPart1_BuatInputan.pdb
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\obj\Debug\TugasLesPart1_BuatInputan.csproj.AssemblyReference.cache
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\obj\Debug\TugasLesPart1_BuatInputan.csproj.SuggestedBindingRedirects.cache
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\obj\Debug\TugasLesPart1_BuatInputan.csproj.CoreCompileInputs.cache
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\obj\Debug\TugasLesPart1_BuatInputan.exe
+D:\TugasLesPart1_BuatInputan\TugasLesPart1_BuatInputan\obj\Debug\TugasLesPart1_BuatInputan.pdb
